@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74375029723",
+    "project_id": "unibit-test-80f5e",
+    "storage_bucket": "unibit-test-80f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74375029723:android:423a5e488997814e9b3dfe",
+        "android_client_info": {
+          "package_name": "com.example.unibit_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYkANfcYydrJESJuHgHS89o3LaYV3eMgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
